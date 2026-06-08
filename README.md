@@ -39,6 +39,7 @@ This project demonstrates how data compression works using Huffman Coding. It bu
 
 2. Run:
    ./huffman   (Linux/Mac)
+   
    huffman.exe (Windows)
 
 
